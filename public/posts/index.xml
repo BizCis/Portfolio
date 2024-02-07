@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Eduardo Cisneros Biz</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on Eduardo Cisneros Biz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Feb 2024 20:36:15 -0600</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploring Financial Predictions with Python: A Deep Dive into Autodesk&#39;s Stock</title>
+      <link>https://example.org/posts/proyeccion_acciones_autodesk/</link>
+      <pubDate>Mon, 05 Feb 2024 20:36:15 -0600</pubDate>
+      
+      <guid>https://example.org/posts/proyeccion_acciones_autodesk/</guid>
+      
+      <description>In the realm of financial analysis and prediction, Python emerges as a powerful tool, offering clarity and precision in navigating the complexities of stock market data. This post delves into a comprehensive Python script designed to analyze and predict Autodesk&amp;rsquo;s stock prices, leveraging a variety of data science and machine learning techniques.
+The Problem at Hand Why Autodesk, and why now? As a leader in design software, Autodesk&amp;rsquo;s stock (ADSK) is a reflection of its innovative capabilities and market position.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

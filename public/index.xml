@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eduardo Cisneros Biz</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Eduardo Cisneros Biz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Feb 2024 20:36:15 -0600</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploring Financial Predictions with Python: A Deep Dive into Autodesk&#39;s Stock</title>
+      <link>https://example.org/posts/proyeccion_acciones_autodesk/</link>
+      <pubDate>Mon, 05 Feb 2024 20:36:15 -0600</pubDate>
+      
+      <guid>https://example.org/posts/proyeccion_acciones_autodesk/</guid>
+      
+      <description>In the realm of financial analysis and prediction, Python emerges as a powerful tool, offering clarity and precision in navigating the complexities of stock market data. This post delves into a comprehensive Python script designed to analyze and predict Autodesk&amp;rsquo;s stock prices, leveraging a variety of data science and machine learning techniques.
+The Problem at Hand Why Autodesk, and why now? As a leader in design software, Autodesk&amp;rsquo;s stock (ADSK) is a reflection of its innovative capabilities and market position.</description>
+      
+    </item>
+    
+    <item>
+      <title>About Eduardo Cisneros Biz</title>
+      <link>https://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/about/</guid>
+      
+      <description>Hello, I&amp;rsquo;m Eduardo, a Data Analyst at Autodesk and a skilled actuary based in Querétaro, Mexico. My academic background in Actuarial Science from the Autonomous University of Querétaro, combined with my proficiency in tools like Excel, SQL, Python, and Tableau, has enabled me to thrive in various data-oriented roles. With experience ranging from sales data analysis at Tractozone to optimizing reporting processes at PSL Group, I excel in turning complex data into actionable insights.</description>
+      
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://example.org/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/contact/</guid>
+      
+      <description>Email: educbiz11@gmail.com
+Telephone: (+52) 55 1600 8214</description>
+      
+    </item>
+    
+    <item>
+      <title>Marte</title>
+      <link>https://example.org/tshirts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tshirts/</guid>
+      
+      <description>A while back, I embarked on a personal journey to channel my artistic flair into something tangible and unique. This led to the creation of &amp;ldquo;Marte,&amp;rdquo; a T-shirt brand that&amp;rsquo;s a true reflection of my creative vision. Marte was born out of a desire to materialize the myriad of ideas swirling in my head, turning them into wearable art.
+My approach with Marte is centered on minimalist designs that speak volumes.</description>
+      
+    </item>
+    
+    <item>
+      <title>Salon Morado</title>
+      <link>https://example.org/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/music/</guid>
+      
+      <description>A few years ago, I discovered that music has a special power to express emotions and thoughts in a unique way. This passion led me to venture beyond just listening to music; I decided to create it. Together with a friend from university, we formed a band called &amp;ldquo;Salón Morado.&amp;rdquo; We embarked on the exciting journey of composing our own songs, blending genres and experimenting with different sounds. Each song is a piece of us, infused with our joys, sorrows, and hopes.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
