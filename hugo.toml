@@ -1,0 +1,97 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Eduardo Cisneros Biz'
+theme = 'hugo-blog-awesome'
+
+# This defines how dates are formatted
+defaultContentLanguage = "en-gb"
+
+# Set up highlighting and rendering options
+[markup]
+  [markup.highlight]
+    noClasses = false
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 4
+    ordered = false
+
+# Main Page
+[menu]
+  [[menu.main]]
+    # The page reference (pageRef) is useful for menu highlighting
+    # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
+    pageRef="/"
+    name = 'Home'
+    url = '/'
+    weight = 10
+  [[menu.main]]
+    pageRef="about"
+    name = 'About/CV'
+    url = '/about/'
+    weight = 20
+  [[menu.main]]
+    pageRef="portfolio"
+    name = 'Portfolio'
+    url = '/posts/'
+    weight = 30
+  [[menu.main]]
+    pageRef="tshirts"
+    name = 'T Shirts'
+    url = '/tshirts/'
+    weight = 40
+  [[menu.main]]
+    pageRef="music"
+    name = 'Music'
+    url = '/music/'
+    weight = 50
+  [[menu.main]]
+    pageRef="contact"
+    name = 'Contact'
+    url = '/contact/'
+    weight = 60
+
+# Site parameters
+[params]
+  # General site parameters
+  sitename = "Eduardo Cisneros hugo blog"
+  defaultColor = "dark" # set color mode: dark, light, auto
+  description = "Minimal Hugo blog theme with light and dark mode support"
+  mainSections = ['posts']
+  goToTop = true # set to false to disable 'go to top' button
+  rssFeedDescription = "summary" # available options: 1) summary 2) full
+
+[params.author]
+  avatar = "avatar.jpeg" # put the file in assets folder; also ensure that image has same height and width
+  # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
+  intro = "Eduardo Cisneros Biz"
+  description = "Actuary | SQL, Excel, Tableau"
+
+# Allow to override webmanifest options
+[params.webmanifest]
+  name = "Eduardo Cisneros Blog" # will use "params.sitename" or "title" by default
+  short_name = "BizBlog" # same as name
+  start_url = "/" # will use homepage url by default
+  theme_color = "#434648" # default is "#434648" (base color of text). Also will override html `<meta name="theme-color" />`
+  background_color = "#fff" # by default depend on "params.defaultColor" for "light" or "auto" will be set to "#fff" for dark will be "#131418" (color of dark mode background)
+  display = "standalone"
+
+# Allow to override `browserconfig.xml` params (configuration for windows embeded browsers)
+[params.browserconfig]
+  TileColor = "#2d89ef" # default windows 10 blue tile color
+
+[[params.socialIcons]]
+name = "email"
+url = "/contact/"
+newTab = false
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/eduardo-cisneros-biz-580233190/"
+newTab = true
+
+[[params.socialIcons]]
+name = "phone"
+url = '/contact/'
+newTab = false

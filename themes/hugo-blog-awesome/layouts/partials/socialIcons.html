@@ -1,0 +1,6 @@
+{{- range . }}
+<a href="{{ trim .url " " }}" {{ if .newTab }}target="_blank" rel="noopener noreferrer me"{{ end }}
+    title="{{ (.title | default .name) | title }}">
+    {{ partial "svgs/svgs.html" . }}
+</a>
+{{- end }}
