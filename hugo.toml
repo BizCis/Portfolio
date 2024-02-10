@@ -1,7 +1,7 @@
 baseURL = 'https://bizcis.github.io/EduardoCisneros/'
 languageCode = 'en-us'
 title = 'Eduardo Cisneros Biz'
-theme = 'hugo-blog-awesome'
+theme = "hugo-blog-awesome"
 
 # This defines how dates are formatted
 defaultContentLanguage = "en-gb"
