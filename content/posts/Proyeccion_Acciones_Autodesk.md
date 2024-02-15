@@ -56,7 +56,7 @@ def plot_stock_data(data, colors):
 ```
 
 <p align="center">
-  <img src="/images/Plot1.png" alt="Plot1 que contiene graficos de las acciones">
+  <img src="/Portfolio/images/Plot1.png" alt="Plot1 que contiene graficos de las acciones">
 </p>
 
 ### Predictive Modeling with Linear Regression
@@ -88,7 +88,7 @@ def linear_regression_model(data, colors):
 ```
 
 <p align="center">
-  <img src="/images/Plot2.png" alt="Plot2 Linear Regression Values" style="width: 100%;">
+  <img src="/Portfolio/images/Plot2.png" alt="Plot2 Linear Regression Values" style="width: 100%;">
 </p>
 
 ### Future Price Predictions
@@ -131,7 +131,7 @@ def predict_future_prices(model, data, colors):
 ```
 
 <p align="center">
-  <img src="/images/Plot3.png" alt="Plot3 Graficar la proyección">
+  <img src="/Portfolio/images/Plot3.png" alt="Plot3 Graficar la proyección">
 </p>
 
 ### Conclusion

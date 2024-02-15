@@ -13,21 +13,21 @@ Through Marte, I've discovered a fulfilling way to share a piece of myself with 
 [Instagram](https://www.instagram.com/marte.ecb/)
 
 <p align="center">
-  <img src="/images/shirt1.jpg" alt="Imagen de Marte">
+  <img src="/Portfolio/images/shirt1.jpg" alt="Imagen de Marte">
 </p>
 
 <p align="center">
-  <img src="/images/shirt2.jpg" alt="Imagen de Marte">
+  <img src="/Portfolio/images/shirt2.jpg" alt="Imagen de Marte">
 </p>
 
 <p align="center">
-  <img src="/images/shirt3.jpg" alt="Imagen de Marte">
+  <img src="/Portfolio/images/shirt3.jpg" alt="Imagen de Marte">
 </p>
 
 <p align="center">
-  <img src="/images/shirt4.jpg" alt="Imagen de Marte">
+  <img src="/Portfolio/images/shirt4.jpg" alt="Imagen de Marte">
 </p>
 
 <p align="center">
-  <img src="/images/shirt5.jpg" alt="Imagen de Marte">
+  <img src="/Portfolio/images/shirt5.jpg" alt="Imagen de Marte">
 </p>

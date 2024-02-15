@@ -13,13 +13,13 @@ This gallery is a collection of moments from our band "Salón Morado." It captur
 [Instagram](https://www.instagram.com/salonmoradoband/)
 
 <p align="center">
-  <img src="/images/music1.jpg" alt="Imagen de la banda">
+  <img src="/Portfolio/images/music1.jpg" alt="Imagen de la banda">
 </p>
 
 <p align="center">
-  <img src="/images/music2.jpg" alt="Imagen de la banda">
+  <img src="/Portfolio/images/music2.jpg" alt="Imagen de la banda">
 </p>
 
 <p align="center">
-  <img src="/images/music3.jpg" alt="Imagen de la banda">
+  <img src="/Portfolio/images/music3.jpg" alt="Imagen de la banda">
 </p>
