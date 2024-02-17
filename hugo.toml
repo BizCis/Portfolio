@@ -1,4 +1,4 @@
-baseURL = 'https://bizcis.github.io/Portfolio/'
+baseURL = 'https://eduardocisneros.biz/'
 languageCode = 'en-us'
 title = 'Eduardo Cisneros Biz'
 theme = "hugo-blog-awesome"
