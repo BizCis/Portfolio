@@ -83,7 +83,7 @@ defaultContentLanguage = "en-gb"
 
 [[params.socialIcons]]
 name = "email"
-url = "/Portfolio/contact/"
+url = "/contact/"
 newTab = false
 
 [[params.socialIcons]]
@@ -93,5 +93,5 @@ newTab = true
 
 [[params.socialIcons]]
 name = "phone"
-url = '/Portfolio/contact/'
+url = '/contact/'
 newTab = false
