@@ -4,7 +4,7 @@ draft = false
 +++
 
 <p align="center">
-  <a href="/files/cv.pdf" target="_blank">
+  <a href="static/files/cv.pdf" target="_blank">
     <img src="/images/ResumeImage.png" alt="Imagen para mi CV">
   </a>
 </p>
